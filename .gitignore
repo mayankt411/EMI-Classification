@@ -1,0 +1,32 @@
+﻿# MATLAB Autosave and History files
+*.asv
+*.m~
+*.mlx~
+*.m.autosave
+
+# MATLAB MEX and compiled binaries
+*.mex*
+*.mexw64
+*.mexa64
+*.mexmaci64
+
+# Simulink code generation and project caches
+slprj/
+codegen/
+*.slxc
+
+# Local MATLAB runtime artifacts & profiler data
+*.log
+*.p
+*.fig.bak
+.matlab/
+
+# Large raw datasets / generated outputs
+data/*.mat
+*.mat.bak
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
