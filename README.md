@@ -9,7 +9,7 @@
 This repository provides the official MATLAB implementation for the research paper:
 
 - **Title:** *Artificial Intelligence for Automatic Classification of Unintentional Electromagnetic Interference in University Office Spaces*
-- **Conference:** 2025 7th International Conference on Man-Machine Systems ([ICoMMS 2025](https://ieeexplore.ieee.org/xpl/conhome/11200346/proceeding)), Malacca, Malaysia
+- **Conference:** 2025 9th International Conference on Man-Machine Systems ([ICoMMS 2025](https://ieeexplore.ieee.org/xpl/conhome/11200346/proceeding)), Malacca, Malaysia
 - **Publisher:** IEEE
 - **DOI:** [10.1109/ICoMMS66553.2025.11200369](https://doi.org/10.1109/ICoMMS66553.2025.11200369)
 
