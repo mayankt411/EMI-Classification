@@ -13,18 +13,6 @@ This repository provides the official MATLAB implementation for the research pap
 - **Publisher:** IEEE
 - **DOI:** [10.1109/ICoMMS66553.2025.11200369](https://doi.org/10.1109/ICoMMS66553.2025.11200369)
 
-```bibtex
-@inproceedings{tadepalli2025emi,
-  author    = {Tadepalli, Mayank and others},
-  title     = {Artificial Intelligence for Automatic Classification of Unintentional Electromagnetic Interference in University Office Spaces},
-  booktitle = {2025 7th International Conference on Man-Machine Systems (ICoMMS)},
-  year      = {2025},
-  pages     = {1--6},
-  publisher = {IEEE},
-  doi       = {10.1109/ICoMMS66553.2025.11200369}
-}
-```
-
 ---
 
 ## 🔍 Overview
